@@ -1,3 +1,2 @@
-# Online-Crime-Report-and-Management-System
-I'm Currently working on this project. 
-I will inform you as soon as I complete the task.
+# CrimeReportandAnalysisSystem
+Online  crime reporting  project’s main idea is to implement  an online web application for maintaining the proper common people complaints for police  department by using  this application people who are afraid or  don’t have enough time to go police station for complaint about  their  personal  legal issues here they can give their complaint through online to register any type of complaint. 
